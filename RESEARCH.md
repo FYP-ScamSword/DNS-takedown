@@ -1,4 +1,6 @@
-### Report abuse mechanisms for major DNS providers
+### Report abuse mechanisms for major DNS registrars
+
+List of DNS registrars:
 
 1. [name.com](http://name.com)
 
