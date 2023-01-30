@@ -31,4 +31,4 @@ List of DNS registrars:
 7. Microsoft
    - Online form: https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest (requires human verification)
 8. Dreamhost
-   - According to [help](https://www.dreamhost.com/legal/abuse/), email abuse@dreamhost.com. Providing IP address, domain name, timestamps, spcific links/URLs and a detailed description of the activity.
+   - According to [help](https://www.dreamhost.com/legal/abuse/), email abuse@dreamhost.com. Providing IP address, domain name, timestamps, specific links/URLs and a detailed description of the activity.
